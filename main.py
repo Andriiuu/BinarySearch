@@ -1,5 +1,4 @@
 import random
-
 def binary_search(list_e,searh_element):
     low = 0
     high = len(list_e) - 1
